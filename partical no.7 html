@@ -13,11 +13,5 @@
          <label><b><i class="fa-sharp fa-solid fa-unlock"></i>Password</b></label><br><input type="password"><br>
          <button   class="button" onclick = "newFunction()" >login</button>
     </div>
-</fieldset><script>
-     function newFunction(){
-        var element = document.getElementById(" form_id ");
-         element.reset()
-      }
-</script></form>
 </body>
 </html>
